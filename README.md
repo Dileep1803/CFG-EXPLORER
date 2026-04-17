@@ -151,21 +151,6 @@ This project covers:
 
 ---
 
-## 🚀 Future Enhancements
-
-* CFG → PDA conversion
-* CNF and GNF conversion
-* Step-by-step ambiguity proof
-* Export parse tree as image
-
----
-
-## 🧑‍💻 Author
-
-Developed as part of **Theory of Computation Project**
-
----
-
 ## 🏁 Conclusion
 
 This project bridges the gap between theory and practice by making CFG concepts:
